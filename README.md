@@ -1,15 +1,14 @@
-# 💎 Luxury Goods Market Insight
+# Luxury Goods Market Insight
 
-> Analisis mendalam pasar industri luxury goods global mencakup performa perusahaan, distribusi geografis, kapitalisasi pasar, dan tren pertumbuhan KPI dari 2013 hingga 2023 — berdasarkan laporan riset Statista edisi Desember 2024.
+> Analisis mendalam pasar industri luxury goods global mencakup performa perusahaan, distribusi geografis, kapitalisasi pasar, dan tren pertumbuhan KPI dari 2013 hingga 2023 berdasarkan laporan riset Statista edisi Desember 2024.
 
 ---
 
-## 🎯 Latar Belakang & Pernyataan Masalah
+## Latar Belakang & Pernyataan Masalah
 
 Industri luxury goods global diproyeksikan tumbuh dari US$473,9 miliar di 2024 menjadi US$577,8 miliar di 2029, dengan CAGR 4,0%. Meski sempat terdampak pandemi COVID-19, perang dagang AS-China, dan konflik geopolitik, pasar ini menunjukkan pemulihan kuat didorong oleh kebangkitan konsumen China dan dominasi generasi milenial serta Gen Z.
 
 Proyek ini merupakan tugas akhir mata kuliah di program S2 yang bertujuan menjawab pertanyaan bisnis berikut:
-
 1. Bagaimana distribusi geografis perusahaan luxury goods terbesar di dunia?
 2. Perusahaan mana yang memiliki performa paling konsisten dalam hal revenue dan profitabilitas (PBT)?
 3. Bagaimana tren pertumbuhan karyawan, revenue, dan PBT dari 2013 hingga 2023?
@@ -17,9 +16,9 @@ Proyek ini merupakan tugas akhir mata kuliah di program S2 yang bertujuan menjaw
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
-> 🔗 **[Lihat Dashboard Interaktif di Tableau Public](https://public.tableau.com/views/FinalProjectSTI/Dashboard1)**
+> **[Lihat Dashboard Interaktif di Tableau Public](https://public.tableau.com/views/FinalProjectSTI/Dashboard1)**
 
 Dashboard terdiri dari tiga halaman utama:
 
@@ -51,7 +50,7 @@ Analisis mendalam per perusahaan dengan filter dropdown, meliputi:
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 | Keterangan | Detail |
 |---|---|
@@ -66,7 +65,7 @@ LVMH, Hermes International, L'Oreal, Kering, Burberry, The Estee Lauder, The Swa
 
 ---
 
-## 🛠️ Tools & Teknologi
+## Tools & Teknologi
 
 | Tool | Kegunaan |
 |---|---|
@@ -76,7 +75,7 @@ LVMH, Hermes International, L'Oreal, Kering, Burberry, The Estee Lauder, The Swa
 
 ---
 
-## 🔍 Metodologi
+## Metodologi
 
 ### 1. Pengumpulan Data (Statista)
 Data diambil dari laporan riset pasar Statista edisi Desember 2024, mencakup KPI keuangan dan operasional 70+ perusahaan luxury goods global dari 2013 hingga 2024, dengan breakdown per kawasan geografis.
@@ -94,7 +93,7 @@ Data diambil dari laporan riset pasar Statista edisi Desember 2024, mencakup KPI
 
 ---
 
-## 💡 Temuan Utama
+## Temuan Utama
 
 | # | Temuan | Dampak |
 |---|---|---|
@@ -106,7 +105,7 @@ Data diambil dari laporan riset pasar Statista edisi Desember 2024, mencakup KPI
 
 ---
 
-## 💼 Rekomendasi Bisnis
+## Rekomendasi Bisnis
 
 1. **Fokus ekspansi Asia** — Asia (excl. Japan) terbukti menjadi pasar terbesar, khususnya China dengan 400 juta milenial yang aktif mengonsumsi luxury goods
 2. **Strategi omnichannel** — Luxury brands perlu memperkuat channel online tanpa mengorbankan pengalaman fisik yang menjadi pembeda utama mereka
@@ -115,13 +114,12 @@ Data diambil dari laporan riset pasar Statista edisi Desember 2024, mencakup KPI
 
 ---
 
-## 👤 Tentang Saya
+## Tentang Saya
 
-**Meisya Putri** — Data Analyst | S2 Student
+**Meisya Salsabila I.P.** 
 
-- 💼 [LinkedIn](https://linkedin.com/in/meisya-putri)
-- 🐙 [GitHub](https://github.com/meisya-putri)
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/meisya.putri)
+- 📧 meisyasalsa7@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/meisyasalsabila/)
 
 ---
 
